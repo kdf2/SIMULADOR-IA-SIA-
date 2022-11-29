@@ -5,8 +5,8 @@ from turtle import pos
 
 
 
-alfabeto=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z',' ']
-asciikdff=['m','l','k','j','i','h','t','f','e','d','c','b','a','z','y','x','w','v','u','g','s','r','q','p','o','n','_']
+alfabeto=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','_']
+asciikdff=['m','l','k','j','i','h','t','f','e','d','c','b','a','z','y','x','w','v','u','g','s','r','q','p','o','n',' ']
 traducido=[]
 traducido2=[]
 def kdff_es(frase):
