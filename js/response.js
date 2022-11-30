@@ -30,4 +30,7 @@ const responseObj = {
     como_estas:"bien y tu como estas?",
     futbol_o_basquetboll:"futbol y barcelona el mejor equipo",
     quien_gana_el_mundial:"de acuerdo a mis estadisticas ARGENTINA",
+    Cuál_es_el_pasado_mañana_del_anteayer:"es miercoles",
+    La_Inteligencia_Artificial_es_Humana:"no, nosotoros pensamos como humanos",
+    Quién_es_Mark_Zuckerberg:"uno de los creadores y fundadores de Facebook", 
 }
